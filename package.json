@@ -4,7 +4,8 @@
   "description": "s",
   "main": "s",
   "scripts": {
-    "test": "s"
+    "test": "s",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
